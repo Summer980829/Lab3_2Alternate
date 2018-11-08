@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab3_2Alternate</string>
+    <string name="message">人間, お元気ですか?</string>
+    <string name="show_message">メッセージを表示する</string>
+</resources>
